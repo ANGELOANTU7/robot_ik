@@ -8,8 +8,11 @@ This repository contains resources for implementing inverse kinematics (IK) for 
 
 ### Image
 
-[Include an image or a diagram showcasing the robot URDF here]
 
+
+| <img src="urdf.gif">             | 
+| :----------------------------------: | 
+|          _URDF_           | 
 ## How to Run
 
 ### Dependencies
