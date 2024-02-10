@@ -72,5 +72,5 @@ python3 ik.py
 
 ## Sample Output
 
-![Alt Text](media/sample_output.jpg)
+![Alt Text](media/sample_output.png)
 
