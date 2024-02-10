@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains resources for implementing inverse kinematics (IK) for a robotic system. Specifically, it focuses on utilizing Pinocchio, a powerful framework for robot kinematics and dynamics computation.
+This repository contains resources for implementing inverse kinematics (IK) for a robotic system. Specifically, it focuses on utilizing Pinocchio, a powerful framework for robot kinematics and dynamics computation. The system pertains to a 6-degree-of-freedom (6DoF) robotic arm designed for operations within a 1-meter hemisphere.
 
 ## URDF
 
@@ -10,7 +10,7 @@ This repository contains resources for implementing inverse kinematics (IK) for 
 
 
 
-| <img src="urdf.gif">             | 
+| <img src="media/urdf.gif">             | 
 | :----------------------------------: | 
 |          _URDF_           | 
 ## How to Run
@@ -70,10 +70,7 @@ To execute the IK script, use the following command:
 python3 ik.py
 ```
 
-## Working
+## Sample Output
 
-[Describe briefly how the inverse kinematics implementation works and what the script does.]
+![Alt Text](media/sample_output.jpg)
 
-Feel free to add more details about the project's structure, how to extend functionalities, or any other relevant information.
-
-[End with any closing remarks or acknowledgments, if needed.]
